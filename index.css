@@ -43,3 +43,9 @@ button {
     border-radius: 5px;
     font-weight: bold;
 }
+
+.flex-container {
+    display: flex;
+    flex: 1;
+    max-width: 360px;
+}
