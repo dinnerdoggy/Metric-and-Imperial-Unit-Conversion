@@ -44,9 +44,3 @@ button {
     font-weight: bold;
 }
 
-.flex-container {
-    display: flex;
-    flex: 1;
-    max-width: 360px;
-    flex-direction: column;
-}
