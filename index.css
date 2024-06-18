@@ -48,4 +48,5 @@ button {
     display: flex;
     flex: 1;
     max-width: 360px;
+    flex-direction: column;
 }
